@@ -50,4 +50,3 @@ Once you have the app running, open your web browser and navigate to `http://loc
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me at [sankalpakavindu09@gmail.com](mailto:sankalpakavindu09@gmail.com).
-```
