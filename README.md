@@ -47,20 +47,6 @@ Once you have the app running, open your web browser and navigate to `http://loc
 
 - `main.py`: The main application file containing the Streamlit app code.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me at [sankalpakavindu09@gmail.com](mailto:sankalpakavindu09@gmail.com).
